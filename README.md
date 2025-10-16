@@ -24,8 +24,8 @@ The program classifies packages into three categories:
 - The program will prompt you to enter the package details: **width**, **height**, **length**, and **mass**.
 
 ### 2. Input Format:
-- Enter the **width**, **height**, **length**, and **mass** of the package as positive integers, separated by spaces.
-- Example input: `200 150 100 25`
+- Enter the **width**, **height**, **length**, and **mass** of the package as positive integers, separated by comma.
+- Example input: `200,150,100,25`
   - This represents a package with:
     - Width: 200 cm
     - Height: 150 cm
